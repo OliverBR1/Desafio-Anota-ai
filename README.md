@@ -47,7 +47,7 @@ docker compose up -d
 
 2. Crie um Banco de dados no mongo utilizando mongo express: http://localhost:8081.
 
-3. Logue com suas credencias e crie uma banco de dados com o nome 'product-catalog'.
+3. Logue com suas credencias e crie um banco de dados com o nome 'product-catalog'.
 
 ## Uso
 
