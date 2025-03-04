@@ -11,6 +11,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class AwsSnsConfig {
+
     @Value("${aws.region}")
     private String region;
     @Value("${aws.accessKeyId}")
